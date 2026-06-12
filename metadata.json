@@ -1,0 +1,6 @@
+{
+  "name": "Illustrator Script Pro",
+  "description": "Generatore di script di automazione per Adobe Illustrator che consente di unire liste di nomi (CSV) in campi di testo specifici e di esportare in PDF o AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
